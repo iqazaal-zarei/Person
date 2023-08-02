@@ -1,0 +1,8 @@
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\bin\Debug\person-Excample.exe.config
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\bin\Debug\person-Excample.exe
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\bin\Debug\person-Excample.pdb
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\obj\Debug\person-Excample.csproj.AssemblyReference.cache
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\obj\Debug\person-Excample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\obj\Debug\person-Excample.csproj.CoreCompileInputs.cache
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\obj\Debug\person-Excample.exe
+C:\Users\Valiasr\source\repos\person-Excample\person-Excample\obj\Debug\person-Excample.pdb
